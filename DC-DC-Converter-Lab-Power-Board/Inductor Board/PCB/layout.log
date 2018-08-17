@@ -1,0 +1,1063 @@
+Tue Apr 07 23:46:44 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 07 23:46:44 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\DEFAULT.TCH
+Tue Apr 07 23:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Tue Apr 07 23:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Tue Apr 07 23:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Tue Apr 07 23:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Tue Apr 07 23:46:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Tue Apr 07 23:46:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Tue Apr 07 23:46:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Tue Apr 07 23:46:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Tue Apr 07 23:46:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Tue Apr 07 23:46:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Tue Apr 07 23:46:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Tue Apr 07 23:46:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Tue Apr 07 23:46:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Tue Apr 07 23:46:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Tue Apr 07 23:46:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Tue Apr 07 23:46:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Tue Apr 07 23:46:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Tue Apr 07 23:46:50 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Tue Apr 07 23:46:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Tue Apr 07 23:46:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Tue Apr 07 23:46:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Tue Apr 07 23:46:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Tue Apr 07 23:46:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Tue Apr 07 23:46:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Tue Apr 07 23:46:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Tue Apr 07 23:46:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Apr 07 23:46:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue Apr 07 23:46:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Tue Apr 07 23:46:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Tue Apr 07 23:46:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Tue Apr 07 23:46:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Tue Apr 07 23:46:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Tue Apr 07 23:46:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Tue Apr 07 23:46:54 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Tue Apr 07 23:46:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Tue Apr 07 23:46:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Tue Apr 07 23:46:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Tue Apr 07 23:46:59 Library file not found:USER.PRT
+Tue Apr 07 23:46:59 Library file not found:USER.PRT
+Tue Apr 07 23:47:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Tue Apr 07 23:47:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Tue Apr 07 23:49:26 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Tue Apr 07 23:49:28 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Tue Apr 07 23:49:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue Apr 07 23:49:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Tue Apr 07 23:49:37 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Tue Apr 07 23:49:38 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue Apr 07 23:49:39 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Tue Apr 07 23:49:40 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 00:09:22 Saved as file ~undo.max
+Wed Apr 08 00:09:26 Saved as file ~undo.max
+Wed Apr 08 00:09:33 Saved as file ~undo.max
+Wed Apr 08 00:09:49 Saved as file ~undo.max
+Wed Apr 08 00:10:08 Saved as file ~undo.max
+Wed Apr 08 00:10:15 Saved as file ~undo.max
+Wed Apr 08 00:10:33 Saved as file ~undo.max
+Wed Apr 08 00:10:39 Saved as file ~undo.max
+Wed Apr 08 00:10:44 Saved as file ~undo.max
+Wed Apr 08 00:10:57 Saved as file ~undo.max
+Wed Apr 08 00:11:08 Saved as file ~undo.max
+Wed Apr 08 00:11:35 Saved as file ~undo.max
+Wed Apr 08 00:12:38 Saved as file ~undo.max
+Wed Apr 08 00:17:52 Saved as file BACKUP1.MAX
+Wed Apr 08 00:17:52 Saved as file BACKUP1.MAX
+Wed Apr 08 00:17:53 Saved as file BACKUP1.MAX
+Wed Apr 08 00:17:53 No new connections routed.
+Wed Apr 08 00:17:53 Total is now 0 out of 32 (0%).
+Wed Apr 08 00:17:53 Saved as file SWEEP1.MAX
+Wed Apr 08 00:18:05 Saved as file BACKUP1.MAX
+Wed Apr 08 00:18:14 Saved as file BACKUP1.MAX
+Wed Apr 08 00:18:15 Saved as file BACKUP1.MAX
+Wed Apr 08 00:18:15 Routed 22 connections in 21 seconds.
+Wed Apr 08 00:18:15 Total is now 21 out of 32 (65%).
+Wed Apr 08 00:18:15 Saved as file SWEEP2.MAX
+Wed Apr 08 00:18:44 No new connections routed.
+Wed Apr 08 00:18:44 Total is now 21 out of 32 (65%).
+Wed Apr 08 00:18:44 Saved as file SWEEP3.MAX
+Wed Apr 08 00:18:52 Saved as file BACKUP1.MAX
+Wed Apr 08 00:19:57 Routed 11 connections in 14 seconds.
+Wed Apr 08 00:19:57 Total is now 32 out of 32 (100%).
+Wed Apr 08 00:19:57 Saved as file SWEEP4.MAX
+Wed Apr 08 00:19:58 No new connections routed.
+Wed Apr 08 00:19:58 Total is now 32 out of 32 (100%).
+Wed Apr 08 00:19:58 Saved as file SWEEP5.MAX
+Wed Apr 08 06:42:34 Saved as file BACKUP1.MAX
+Wed Apr 08 07:57:51 Saved as file BACKUP1.MAX
+Wed Apr 08 08:07:49 Saved as file BACKUP1.MAX
+Wed Apr 08 08:11:30 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-1.MAX
+Wed Apr 08 08:11:31 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-1.MAX
+Wed Apr 08 08:16:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:16:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:16:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:16:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:17:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:17:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:17:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:18:00 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:19:00 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:19:00 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 08:19:07 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 08:19:08 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 08:19:08 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 08:19:09 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 08:19:10 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 08:19:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 08:19:15 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:19:15 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 08:19:16 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 08:19:16 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 08:19:17 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 08:20:41 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:21:35 Saved as file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 08:21:43 Error code 0037.386 (716)
+Wed Apr 08 08:21:43 Saved as file Backup0.max
+Wed Apr 08 08:21:43 Windows which were open at time of error:
+Wed Apr 08 08:21:43 	ActiveWindow: Library Manager
+Wed Apr 08 08:21:43 	Icon: &Components
+Wed Apr 08 08:21:43 	Icon: &Nets
+Wed Apr 08 08:21:43 	Icon: Post Proces&s
+Wed Apr 08 08:21:43 	Icon: &Design
+Wed Apr 08 08:21:43 End-of-list
+Wed Apr 08 08:21:46 Loaded file BACKUP0.MAX
+Wed Apr 08 08:21:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:21:52 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:21:54 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 08:21:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 08:21:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 08:21:56 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 08:21:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 08:22:10 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:25:11 Saved as file BACKUP1.MAX
+Wed Apr 08 08:25:11 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-1.MAX
+Wed Apr 08 08:25:30 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-1.MAX
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 08:25:30 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 08:25:31 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 08:25:31 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 08:25:31 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 08:25:31 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 08:25:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 08:25:32 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 08:25:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 08:25:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:25:43 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:25:46 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:25:48 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:25:49 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 08:25:52 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 08:25:55 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-2.MAX
+Wed Apr 08 08:25:55 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-2.MAX
+Wed Apr 08 08:26:14 Saved as file ~undo.max
+Wed Apr 08 08:26:20 Saved as file ~undo.max
+Wed Apr 08 08:26:28 Saved as file ~undo.max
+Wed Apr 08 08:32:17 Saved as file BACKUP1.MAX
+Wed Apr 08 08:37:31 Saved as file ~undo.max
+Wed Apr 08 08:37:36 Saved as file ~undo.max
+Wed Apr 08 08:37:55 Saved as file ~undo.max
+Wed Apr 08 08:43:14 Saved as file ~undo.max
+Wed Apr 08 08:43:21 Saved as file ~undo.max
+Wed Apr 08 08:46:47 Saved as file BACKUP1.MAX
+Wed Apr 08 08:57:17 Saved as file BACKUP1.MAX
+Wed Apr 08 09:07:17 Saved as file BACKUP1.MAX
+Wed Apr 08 09:15:02 Saved as file ~undo.max
+Wed Apr 08 09:15:06 Saved as file ~undo.max
+Wed Apr 08 09:15:16 Saved as file ~undo.max
+Wed Apr 08 09:15:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 09:15:21 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 09:15:25 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 09:15:26 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 09:15:29 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 09:15:29 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 09:15:30 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TRAINING.LLB
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 09:15:31 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 09:16:14 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Apr 08 09:16:16 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\padstack.llb
+Wed Apr 08 09:16:25 Loaded file C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\library\padstack.llb
+Wed Apr 08 09:42:47 Saved as file BACKUP1.MAX
+Wed Apr 08 09:42:55 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-3.MAX
+Wed Apr 08 21:15:53 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\DEFAULT.MAX
+Wed Apr 08 21:16:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\DEFAULT.MAX
+Wed Apr 08 21:17:46 Saved as file ~undo.max
+Wed Apr 08 21:18:38 Saved as file BACKUP1.MAX
+Wed Apr 08 21:18:38 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-2.MAX
+Wed Apr 08 21:18:41 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 08 21:18:41 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-2.MAX
+Wed Apr 08 21:18:41 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 21:18:41 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 21:18:42 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 21:18:43 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 21:18:43 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 21:18:43 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 21:18:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 21:18:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 21:18:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 21:18:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 21:18:43 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 21:18:44 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 21:18:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 21:18:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 21:18:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 21:18:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 21:18:51 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-4.MAX
+Wed Apr 08 21:18:51 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-4.MAX
+Wed Apr 08 21:19:31 Saved as file ~undo.max
+Wed Apr 08 21:19:42 Saved as file ~undo.max
+Wed Apr 08 21:19:52 Saved as file ~undo.max
+Wed Apr 08 21:19:59 Saved as file ~undo.max
+Wed Apr 08 21:20:06 Saved as file ~undo.max
+Wed Apr 08 21:20:10 Saved as file ~undo.max
+Wed Apr 08 21:20:15 Saved as file ~undo.max
+Wed Apr 08 21:20:30 Saved as file ~undo.max
+Wed Apr 08 21:20:44 Saved as file ~undo.max
+Wed Apr 08 21:20:52 Saved as file BACKUP1.MAX
+Wed Apr 08 21:20:52 No new connections routed.
+Wed Apr 08 21:20:52 Total is now 0 out of 35 (0%).
+Wed Apr 08 21:20:52 Saved as file SWEEP1.MAX
+Wed Apr 08 21:20:55 Saved as file BACKUP1.MAX
+Wed Apr 08 21:20:55 Routed 35 connections in 3 seconds.
+Wed Apr 08 21:20:55 Total is now 35 out of 35 (100%).
+Wed Apr 08 21:20:55 Saved as file SWEEP2.MAX
+Wed Apr 08 21:20:56 No new connections routed.
+Wed Apr 08 21:20:56 Total is now 35 out of 35 (100%).
+Wed Apr 08 21:20:57 Saved as file SWEEP3.MAX
+Wed Apr 08 21:20:59 No new connections routed.
+Wed Apr 08 21:20:59 Total is now 35 out of 35 (100%).
+Wed Apr 08 21:20:59 Saved as file SWEEP4.MAX
+Wed Apr 08 21:21:01 No new connections routed.
+Wed Apr 08 21:21:01 Total is now 35 out of 35 (100%).
+Wed Apr 08 21:21:01 Saved as file SWEEP5.MAX
+Wed Apr 08 21:24:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:24:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:24:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:24:03 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:24:20 Saved as file ~undo.max
+Wed Apr 08 21:26:01 Saved as file ~undo.max
+Wed Apr 08 21:26:08 Saved as file ~undo.max
+Wed Apr 08 21:26:15 Saved as file ~undo.max
+Wed Apr 08 21:26:19 Saved as file ~undo.max
+Wed Apr 08 21:27:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:27:13 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:27:18 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 21:27:19 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 21:27:32 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\BASES.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\CAPS.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOSE MIGUEL.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\LELLIS.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MI LIBRERIA2.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH 1012.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\MWH5024.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\SMT LELLIS.LLB
+Wed Apr 08 21:27:34 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\RONALD.LLB
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON100T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BCON156T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\BGA.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\CLCC.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON050T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DCON085T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050F.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIMM050T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIN.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100B.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DIP100T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ECON100T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\FBUS.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ISA.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\JUMPER.LLB
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LAYOUT.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\LCON100T.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PC104.llb
+Wed Apr 08 21:27:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCI.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON100T.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PCON156T.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PGA.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\PLCC.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUAD.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\QUADB.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RELAY.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\RF.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SBUS.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050F.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM050T.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100F.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIMM100T.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SIP.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SM.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOG.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\SOJ.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\STIFF.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TELE.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_DISC.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TM_RAD.llb
+Wed Apr 08 21:27:35 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\TO.llb
+Wed Apr 08 21:27:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\VRES.llb
+Wed Apr 08 21:27:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\WCON100T.llb
+Wed Apr 08 21:27:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\XT.llb
+Wed Apr 08 21:27:36 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Apr 08 21:27:52 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:27:55 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:27:57 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:27:59 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:00 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:06 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:33 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:34 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:36 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\JOCHY.LLB
+Wed Apr 08 21:28:36 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 21:28:45 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:46 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:47 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:48 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:49 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:51 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:28:58 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:02 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:04 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:09 Saved as file ~undo.max
+Wed Apr 08 21:29:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:11 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:12 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:15 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\LIBRERIAS\ORCADLIB\ORCADLIB\CUSTOMS\HEADERS.LLB
+Wed Apr 08 21:29:20 Loaded file C:\OrCAD\OrCAD_15.7\tools\Layout_Plus\data\template.imp
+Wed Apr 08 21:29:25 Saved as file ~undo.max
+Wed Apr 08 21:29:27 Saved as file BACKUP1.MAX
+Wed Apr 08 21:31:02 Saved as file ~undo.max
+Wed Apr 08 21:31:06 Saved as file ~undo.max
+Wed Apr 08 21:33:07 Saved as file ~undo.max
+Wed Apr 08 21:34:04 Saved as file BACKUP1.MAX
+Wed Apr 08 21:34:04 Routed 1 connections in 0 seconds.
+Wed Apr 08 21:34:04 Total is now 1 out of 34 (2%).
+Wed Apr 08 21:34:05 Saved as file SWEEP1.MAX
+Wed Apr 08 21:34:12 Saved as file BACKUP1.MAX
+Wed Apr 08 21:34:12 Routed 22 connections in 7 seconds.
+Wed Apr 08 21:34:12 Total is now 23 out of 34 (67%).
+Wed Apr 08 21:34:12 Saved as file SWEEP2.MAX
+Wed Apr 08 21:34:33 No new connections routed.
+Wed Apr 08 21:34:33 Total is now 23 out of 34 (67%).
+Wed Apr 08 21:34:33 Saved as file SWEEP3.MAX
+Wed Apr 08 21:35:16 Routed 1 connections in 42 seconds.
+Wed Apr 08 21:35:16 Total is now 23 out of 34 (67%).
+Wed Apr 08 21:35:16 Saved as file SWEEP4.MAX
+Wed Apr 08 21:37:05 Routed 1 connections in 108 seconds.
+Wed Apr 08 21:37:05 Total is now 23 out of 34 (67%).
+Wed Apr 08 21:37:05 Saved as file SWEEP5.MAX
+Wed Apr 08 22:34:58 Saved as file BACKUP1.MAX
+Wed Apr 08 22:35:14 Saved as file ~undo.max
+Wed Apr 08 22:35:19 Saved as file ~undo.max
+Wed Apr 08 22:35:26 Saved as file BACKUP1.MAX
+Wed Apr 08 22:35:26 Routed 1 connections in 0 seconds.
+Wed Apr 08 22:35:26 Total is now 1 out of 34 (2%).
+Wed Apr 08 22:35:26 Saved as file SWEEP1.MAX
+Wed Apr 08 22:36:07 Saved as file BACKUP1.MAX
+Wed Apr 08 22:36:07 Routed 22 connections in 40 seconds.
+Wed Apr 08 22:36:07 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:36:07 Saved as file SWEEP2.MAX
+Wed Apr 08 22:37:40 No new connections routed.
+Wed Apr 08 22:37:40 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:37:40 Saved as file SWEEP3.MAX
+Wed Apr 08 22:41:00 Routed 4 connections in  3.3 minutes.
+Wed Apr 08 22:41:00 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:41:00 Saved as file SWEEP4.MAX
+Wed Apr 08 22:44:57 Routed 4 connections in  4.0 minutes.
+Wed Apr 08 22:44:57 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:44:58 Saved as file SWEEP5.MAX
+Wed Apr 08 22:44:59 Saved as file BACKUP1.MAX
+Wed Apr 08 22:45:56 Saved as file ~undo.max
+Wed Apr 08 22:46:15 Saved as file ~undo.max
+Wed Apr 08 22:46:17 Saved as file ~undo.max
+Wed Apr 08 22:46:40 Saved as file ~undo.max
+Wed Apr 08 22:46:47 Saved as file ~undo.max
+Wed Apr 08 22:46:57 Saved as file ~undo.max
+Wed Apr 08 22:47:07 Saved as file ~undo.max
+Wed Apr 08 22:47:10 Saved as file ~undo.max
+Wed Apr 08 22:47:13 Saved as file ~undo.max
+Wed Apr 08 22:47:20 Saved as file BACKUP1.MAX
+Wed Apr 08 22:47:20 Routed 1 connections in 1 seconds.
+Wed Apr 08 22:47:20 Total is now 1 out of 34 (2%).
+Wed Apr 08 22:47:20 Saved as file SWEEP1.MAX
+Wed Apr 08 22:48:15 Saved as file BACKUP1.MAX
+Wed Apr 08 22:48:16 Routed 22 connections in 54 seconds.
+Wed Apr 08 22:48:16 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:48:16 Saved as file SWEEP2.MAX
+Wed Apr 08 22:49:30 No new connections routed.
+Wed Apr 08 22:49:30 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:49:30 Saved as file SWEEP3.MAX
+Wed Apr 08 22:52:29 Routed 3 connections in  3.0 minutes.
+Wed Apr 08 22:52:29 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:52:29 Saved as file SWEEP4.MAX
+Wed Apr 08 22:55:29 Routed 3 connections in  3.0 minutes.
+Wed Apr 08 22:55:29 Total is now 23 out of 34 (67%).
+Wed Apr 08 22:55:29 Saved as file SWEEP5.MAX
+Wed Apr 08 22:55:57 Saved as file BACKUP1.MAX
+Wed Apr 08 22:57:27 Saved as file BACKUP1.MAX
+Wed Apr 08 22:57:27 Routed 2 connections in 0 seconds.
+Wed Apr 08 22:57:27 Total is now 2 out of 34 (5%).
+Wed Apr 08 22:57:27 Saved as file SWEEP1.MAX
+Wed Apr 08 22:57:34 Saved as file BACKUP1.MAX
+Wed Apr 08 22:57:34 Routed 32 connections in 6 seconds.
+Wed Apr 08 22:57:34 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:57:34 Saved as file SWEEP2.MAX
+Wed Apr 08 22:57:37 No new connections routed.
+Wed Apr 08 22:57:37 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:57:37 Saved as file SWEEP3.MAX
+Wed Apr 08 22:57:39 No new connections routed.
+Wed Apr 08 22:57:39 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:57:39 Saved as file SWEEP4.MAX
+Wed Apr 08 22:57:42 No new connections routed.
+Wed Apr 08 22:57:42 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:57:42 Saved as file SWEEP5.MAX
+Wed Apr 08 22:59:24 Saved as file BACKUP1.MAX
+Wed Apr 08 22:59:24 Routed 2 connections in 1 seconds.
+Wed Apr 08 22:59:24 Total is now 2 out of 34 (5%).
+Wed Apr 08 22:59:24 Saved as file SWEEP1.MAX
+Wed Apr 08 22:59:28 Saved as file BACKUP1.MAX
+Wed Apr 08 22:59:28 Routed 32 connections in 4 seconds.
+Wed Apr 08 22:59:28 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:59:28 Saved as file SWEEP2.MAX
+Wed Apr 08 22:59:29 No new connections routed.
+Wed Apr 08 22:59:29 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:59:29 Saved as file SWEEP3.MAX
+Wed Apr 08 22:59:30 No new connections routed.
+Wed Apr 08 22:59:30 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:59:30 Saved as file SWEEP4.MAX
+Wed Apr 08 22:59:31 No new connections routed.
+Wed Apr 08 22:59:31 Total is now 34 out of 34 (100%).
+Wed Apr 08 22:59:31 Saved as file SWEEP5.MAX
+Wed Apr 08 23:00:46 Saved as file BACKUP1.MAX
+Wed Apr 08 23:00:46 Routed 2 connections in 0 seconds.
+Wed Apr 08 23:00:46 Total is now 2 out of 34 (5%).
+Wed Apr 08 23:00:46 Saved as file SWEEP1.MAX
+Wed Apr 08 23:00:54 Saved as file BACKUP1.MAX
+Wed Apr 08 23:00:54 Routed 32 connections in 7 seconds.
+Wed Apr 08 23:00:54 Total is now 34 out of 34 (100%).
+Wed Apr 08 23:00:54 Saved as file SWEEP2.MAX
+Wed Apr 08 23:00:56 No new connections routed.
+Wed Apr 08 23:00:56 Total is now 34 out of 34 (100%).
+Wed Apr 08 23:00:57 Saved as file SWEEP3.MAX
+Wed Apr 08 23:01:00 No new connections routed.
+Wed Apr 08 23:01:00 Total is now 34 out of 34 (100%).
+Wed Apr 08 23:01:00 Saved as file SWEEP4.MAX
+Wed Apr 08 23:01:02 No new connections routed.
+Wed Apr 08 23:01:02 Total is now 34 out of 34 (100%).
+Wed Apr 08 23:01:02 Saved as file SWEEP5.MAX
+Wed Apr 08 23:06:57 Saved as file BACKUP1.MAX
+Wed Apr 08 23:17:27 Saved as file BACKUP1.MAX
+Wed Apr 08 23:18:48 Routed 6 connections in 0 seconds.
+Wed Apr 08 23:18:48 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:19:22 Saved as file BACKUP1.MAX
+Wed Apr 08 23:19:22 Routed 8 connections in 0 seconds.
+Wed Apr 08 23:19:22 Total is now 8 out of 41 (19%).
+Wed Apr 08 23:19:22 Saved as file SWEEP1.MAX
+Wed Apr 08 23:19:27 Saved as file BACKUP1.MAX
+Wed Apr 08 23:19:27 Routed 33 connections in 4 seconds.
+Wed Apr 08 23:19:27 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:19:27 Saved as file SWEEP2.MAX
+Wed Apr 08 23:19:28 No new connections routed.
+Wed Apr 08 23:19:28 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:19:28 Saved as file SWEEP3.MAX
+Wed Apr 08 23:19:29 No new connections routed.
+Wed Apr 08 23:19:29 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:19:29 Saved as file SWEEP4.MAX
+Wed Apr 08 23:19:30 No new connections routed.
+Wed Apr 08 23:19:30 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:19:30 Saved as file SWEEP5.MAX
+Wed Apr 08 23:21:36 Saved as file BACKUP1.MAX
+Wed Apr 08 23:21:36 Routed 9 connections in 0 seconds.
+Wed Apr 08 23:21:36 Total is now 9 out of 41 (21%).
+Wed Apr 08 23:21:36 Saved as file SWEEP1.MAX
+Wed Apr 08 23:21:40 Saved as file BACKUP1.MAX
+Wed Apr 08 23:21:40 Routed 32 connections in 4 seconds.
+Wed Apr 08 23:21:40 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:21:41 Saved as file SWEEP2.MAX
+Wed Apr 08 23:21:41 No new connections routed.
+Wed Apr 08 23:21:41 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:21:41 Saved as file SWEEP3.MAX
+Wed Apr 08 23:21:42 No new connections routed.
+Wed Apr 08 23:21:42 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:21:42 Saved as file SWEEP4.MAX
+Wed Apr 08 23:21:43 No new connections routed.
+Wed Apr 08 23:21:43 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:21:43 Saved as file SWEEP5.MAX
+Wed Apr 08 23:27:28 Saved as file BACKUP1.MAX
+Wed Apr 08 23:27:49 Saved as file BACKUP1.MAX
+Wed Apr 08 23:27:49 Routed 9 connections in 0 seconds.
+Wed Apr 08 23:27:49 Total is now 9 out of 41 (21%).
+Wed Apr 08 23:27:49 Saved as file SWEEP1.MAX
+Wed Apr 08 23:27:54 Saved as file BACKUP1.MAX
+Wed Apr 08 23:27:54 Routed 32 connections in 5 seconds.
+Wed Apr 08 23:27:54 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:27:54 Saved as file SWEEP2.MAX
+Wed Apr 08 23:27:55 No new connections routed.
+Wed Apr 08 23:27:55 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:27:55 Saved as file SWEEP3.MAX
+Wed Apr 08 23:27:56 No new connections routed.
+Wed Apr 08 23:27:56 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:27:56 Saved as file SWEEP4.MAX
+Wed Apr 08 23:27:57 No new connections routed.
+Wed Apr 08 23:27:57 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:27:57 Saved as file SWEEP5.MAX
+Wed Apr 08 23:29:34 Saved as file BACKUP1.MAX
+Wed Apr 08 23:29:34 Routed 9 connections in 0 seconds.
+Wed Apr 08 23:29:34 Total is now 9 out of 41 (21%).
+Wed Apr 08 23:29:34 Saved as file SWEEP1.MAX
+Wed Apr 08 23:29:38 Saved as file BACKUP1.MAX
+Wed Apr 08 23:29:38 Routed 32 connections in 4 seconds.
+Wed Apr 08 23:29:38 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:29:38 Saved as file SWEEP2.MAX
+Wed Apr 08 23:29:39 No new connections routed.
+Wed Apr 08 23:29:39 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:29:39 Saved as file SWEEP3.MAX
+Wed Apr 08 23:29:40 No new connections routed.
+Wed Apr 08 23:29:40 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:29:40 Saved as file SWEEP4.MAX
+Wed Apr 08 23:29:41 No new connections routed.
+Wed Apr 08 23:29:41 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:29:41 Saved as file SWEEP5.MAX
+Wed Apr 08 23:32:06 Saved as file ~undo.max
+Wed Apr 08 23:32:26 Saved as file ~undo.max
+Wed Apr 08 23:33:05 Saved as file ~undo.max
+Wed Apr 08 23:33:19 Saved as file ~undo.max
+Wed Apr 08 23:33:30 Saved as file ~undo.max
+Wed Apr 08 23:33:40 Saved as file ~undo.max
+Wed Apr 08 23:33:47 Saved as file BACKUP1.MAX
+Wed Apr 08 23:33:48 Routed 6 connections in 1 seconds.
+Wed Apr 08 23:33:48 Total is now 6 out of 41 (14%).
+Wed Apr 08 23:33:48 Saved as file SWEEP1.MAX
+Wed Apr 08 23:33:53 Saved as file BACKUP1.MAX
+Wed Apr 08 23:33:53 Routed 35 connections in 5 seconds.
+Wed Apr 08 23:33:53 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:33:53 Saved as file SWEEP2.MAX
+Wed Apr 08 23:33:54 No new connections routed.
+Wed Apr 08 23:33:54 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:33:54 Saved as file SWEEP3.MAX
+Wed Apr 08 23:33:55 No new connections routed.
+Wed Apr 08 23:33:55 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:33:55 Saved as file SWEEP4.MAX
+Wed Apr 08 23:33:56 No new connections routed.
+Wed Apr 08 23:33:56 Total is now 41 out of 41 (100%).
+Wed Apr 08 23:33:56 Saved as file SWEEP5.MAX
+Wed Apr 08 23:38:28 Saved as file BACKUP1.MAX
+Wed Apr 08 23:48:27 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-4.MAX
+Wed Apr 08 23:48:28 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-4.MAX
+Wed Apr 08 23:50:57 Saved as file BACKUP1.MAX
+Thu Apr 09 00:00:58 Saved as file BACKUP1.MAX
+Thu Apr 09 00:11:28 Saved as file BACKUP1.MAX
+Thu Apr 09 00:21:28 Saved as file BACKUP1.MAX
+Thu Apr 09 05:59:09 Saved as file BACKUP1.MAX
+Thu Apr 09 06:09:36 Saved as file BACKUP1.MAX
+Thu Apr 09 06:20:06 Saved as file BACKUP1.MAX
+Thu Apr 09 06:34:38 Saved as file BACKUP1.MAX
+Thu Apr 09 06:45:08 Saved as file BACKUP1.MAX
+Thu Apr 09 06:56:08 Saved as file BACKUP1.MAX
+Thu Apr 09 07:39:26 Saved as file BACKUP1.MAX
+Thu Apr 09 07:49:52 Saved as file BACKUP1.MAX
+Thu Apr 09 08:00:22 Saved as file BACKUP1.MAX
+Thu Apr 09 08:10:52 Saved as file BACKUP1.MAX
+Thu Apr 09 08:21:22 Saved as file BACKUP1.MAX
+Thu Apr 09 08:31:52 Saved as file BACKUP1.MAX
+Thu Apr 09 08:42:23 Saved as file BACKUP1.MAX
+Thu Apr 09 08:52:23 Saved as file BACKUP1.MAX
+Thu Apr 09 09:02:23 Saved as file BACKUP1.MAX
+Thu Apr 09 09:12:53 Saved as file BACKUP1.MAX
+Thu Apr 09 09:22:53 Saved as file BACKUP1.MAX
+Thu Apr 09 09:32:53 Saved as file BACKUP1.MAX
+Thu Apr 09 09:42:53 Saved as file BACKUP1.MAX
+Thu Apr 09 09:52:53 Saved as file BACKUP1.MAX
+Thu Apr 09 10:03:23 Saved as file BACKUP1.MAX
+Thu Apr 09 10:13:53 Saved as file BACKUP1.MAX
+Thu Apr 09 10:23:53 Saved as file BACKUP1.MAX
+Thu Apr 09 10:33:53 Saved as file BACKUP1.MAX
+Thu Apr 09 10:43:53 Saved as file BACKUP1.MAX
+Thu Apr 09 10:53:53 Saved as file BACKUP1.MAX
+Thu Apr 09 11:04:23 Saved as file BACKUP1.MAX
+Thu Apr 09 11:14:53 Saved as file BACKUP1.MAX
+Thu Apr 09 12:23:21 Saved as file BACKUP1.MAX
+Thu Apr 09 12:33:18 Saved as file BACKUP1.MAX
+Thu Apr 09 12:43:48 Saved as file BACKUP1.MAX
+Thu Apr 09 17:31:09 Saved as file BACKUP1.MAX
+Thu Apr 09 17:41:36 Saved as file BACKUP1.MAX
+Thu Apr 09 18:54:51 Saved as file BACKUP1.MAX
+Thu Apr 09 18:58:56 Loaded file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-4.MAX
+Thu Apr 09 19:09:41 Saved as file BACKUP1.MAX
+Thu Apr 09 19:19:41 Saved as file BACKUP1.MAX
+Thu Apr 09 19:30:11 Saved as file BACKUP1.MAX
+Thu Apr 09 20:10:12 Saved as file BACKUP1.MAX
+Thu Apr 09 20:20:12 Saved as file BACKUP1.MAX
+Thu Apr 09 20:30:12 Saved as file BACKUP1.MAX
+Thu Apr 09 20:40:12 Saved as file BACKUP1.MAX
+Thu Apr 09 20:50:12 Saved as file BACKUP1.MAX
+Thu Apr 09 20:59:27 Saved as file C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR-5.MAX
+Sat Apr 11 13:42:00 Saved as file BACKUP1.MAX
+Sat Apr 11 13:51:59 Saved as file BACKUP1.MAX
+Sat Apr 11 14:02:00 Saved as file BACKUP1.MAX

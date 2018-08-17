@@ -1,0 +1,25 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_15.7\TOOLS\LAYOUT_PLUS\DATA\DEFAULT.TCH
+FILE-B: C:\USERS\EDWIN\GOOGLE DRIVE\ORCADFILES\POWERBOARD\DC-DC-CONVERTER-LAB-POWER-BOARD\INDUCTOR BOARD\PCB\INDUCTOR.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package HEADER_5X2
+Adding package INDUCTOR
+Adding component J20
+Adding component J23
+Adding component L1
+Adding component J19
+Adding component J21
+Adding net N01194
+Adding net N02981
+Adding net N02478
+Adding net N01081
+Adding net N02443
+Adding net N01692
+Adding net N02765
+Adding net N07151
+Adding net N09093
+Adding net N09949
+Adding net N06676
+Deleting net DEFAULT
+*EOF*
+No errors found
